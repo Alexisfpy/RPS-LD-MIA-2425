@@ -7,7 +7,7 @@ Especificaciones de las características del contorno de las tareas de el RPS
 
 Contorno de tareas | Observable| Agentes | Determinista | Episódico | Estático | Discreto | Conocido
 :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
- RPS | Parcialmente Observable | Multi | Estocástico | Secuencial | - |  - |  - |
+ RPS | Parcialmente Observable | Multi | Estocástico | Secuencial | Estático |  Discreto |  Conocido |
 
 1. Contorno de tareas: **RPS**
 2. Observable: **Parcialmente observable**. EL  agente no puede ver que va a sacar si tijeras, piedra o papel (información oculta).
