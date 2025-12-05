@@ -1,5 +1,5 @@
 # RPS-LS-MIA-2425
-Proyecto de la especialidad **Inteligencia Artifical y Big Data** sobre estructura de un agente
+Proyecto de la especialidad **Inteligencia Artifical y Big Data** sobre estructura de un agente <br>
     * [Contorno de tareas](#contorno-de-tareas)
     * [Estructura del agente](#estructura-del-agente)
 
